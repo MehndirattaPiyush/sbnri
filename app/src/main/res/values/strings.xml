@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Piyush SBNRI</string>
+    <string name="no_results">No Repo \n Please check your network.</string>
+    <string name="open_issues">Open Issues :</string>
+</resources>
